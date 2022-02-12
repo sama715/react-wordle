@@ -5,7 +5,7 @@ export const GAME_COPIED_MESSAGE = 'Juego copiado al portapapeles'
 export const ABOUT_GAME_MESSAGE = 'Sobre este juego'
 export const NOT_ENOUGH_LETTERS_MESSAGE = 'Letras insuficientes'
 export const WORD_NOT_FOUND_MESSAGE = 'La palabra no existe'
-
+export const CORRECT_WORD_MESSAGE = 
 export const ENTER_TEXT = 'Enviar'
 export const DELETE_TEXT = 'Borrar'
 export const STATISTICS_TITLE = 'Estadisticas'
